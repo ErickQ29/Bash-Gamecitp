@@ -1,7 +1,7 @@
 
 
 ````markdown
-# 🎮 Bash Gamecitp
+# 🎮 Bash Gamecito
 
 **Bash Gamecitp** es un juego interactivo desarrollado completamente en Bash, diseñado para ser jugado directamente desde tu terminal. Este proyecto combina la simplicidad del scripting en Bash con la diversión de los juegos clásicos.
 
